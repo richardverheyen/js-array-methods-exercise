@@ -2,6 +2,7 @@
 
 - Pull down code using `git clone git@github.com:richardverheyen/js-array-methods-exercise.git`
 - Navigate into the newly downloaded folder using `cd js-array-methods-exercise`
+- Install Node version 16.13.0 using `nvm install` in the root of the project
 - Run `npm install` or `yarn install` in the root of the project
 - Run `npm start` or `yarn start` to start the development server using react-scripts
 

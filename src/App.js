@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 function App() {
   // These are 'state' definitions (variables which exist inside this component)

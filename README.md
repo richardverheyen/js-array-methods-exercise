@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with this project
+
+Run `npm install` or `yarn install` in the root of the project
+Run `npm start` or `yarn start` to start the development server using react-scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
